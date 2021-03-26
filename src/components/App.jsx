@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function App() {
-  const [headingText, setHeadingText] = useState("HELLOE");
+  const [headingText, setHeadingText] = useState("HELLO");
   const [isMouseOver, setMouseOver] = useState(false);
 
   function handleClick() {
