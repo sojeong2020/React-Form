@@ -2,4 +2,10 @@
 
 Created with Web Development Bootcamp Udemy
 
-Event Handling in React
+-Conditional Rendering by using Ternary Operator
+
+-Setting inline style
+
+-Using eventListener :onMouseOver,onMouseOut
+
+-Setting useState

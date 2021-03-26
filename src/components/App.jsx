@@ -23,7 +23,6 @@ function App() {
         onMouseOver={handleMouseOver}
         onMouseOut={handleMouseOut}
       >
-        {" "}
         Submit
       </button>
     </div>
